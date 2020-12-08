@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project(Kanryo)", "Project(Kanryo).csproj", "{AE93353A-D212-7BA7-0950-0D567A83F751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project(Kanryo).Editor", "Project(Kanryo).Editor.csproj", "{70D4BEF0-2092-E296-A458-CAF021BE0ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE93353A-D212-7BA7-0950-0D567A83F751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE93353A-D212-7BA7-0950-0D567A83F751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE93353A-D212-7BA7-0950-0D567A83F751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE93353A-D212-7BA7-0950-0D567A83F751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D4BEF0-2092-E296-A458-CAF021BE0ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D4BEF0-2092-E296-A458-CAF021BE0ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D4BEF0-2092-E296-A458-CAF021BE0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D4BEF0-2092-E296-A458-CAF021BE0ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
